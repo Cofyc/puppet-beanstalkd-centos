@@ -1,3 +1,3 @@
-puppet-centos-module
-====================
 # puppet-beanstalkd-centos
+
+Install beanstalkd on centos.
